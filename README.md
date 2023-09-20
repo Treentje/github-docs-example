@@ -87,6 +87,10 @@ You can use the following markdown ormat to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[4]</sub>](#references).
 
+ - Make note of where the pipe keyboard key is located.
+ - It should appear above return or enter key
+ - but it may vary based on your keyboard layout.
+
 ![Photo of Momo](Assets/DSC_6844.jpg)
 
 ## References
