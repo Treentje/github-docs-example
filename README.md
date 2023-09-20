@@ -45,6 +45,7 @@ puts "Factorial of 5 is #{result}"
 - It should appear above the tab key, but may vary based on your keyboard layout.
 
 ![DSC_6705](https://github.com/Treentje/github-docs-example/assets/57364053/c1db1b76-9793-4efa-afbe-6d77c271a2cc)
+<img width="200px" src="Assets/DSC_6844.jpg" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -86,7 +87,7 @@ You can use the following markdown ormat to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[4]</sub>](#references).
 
-
+![Photo of Momo](Assets/DSC_6844.jpg)
 
 ## References
 
@@ -95,3 +96,4 @@ Github extends the functionality of Markdown tables to provide more alignment an
  - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-list) <sup>[3]</sub>
  - [GFM - Tables (with extensions)](http://github.com/gfm/#tables-extension-) <sup>[4]</sub>
  - [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+ - [Example from the video](https://github.com/omenking/github-docs-example)
